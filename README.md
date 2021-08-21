@@ -7,7 +7,7 @@
 - ⚡ I work every day with (Node.js, React.js)
 - 📚 I like to teach and learn (share knowledge)
 - 🎥 I like movies and series 
-- 🚴‍♂ I play Chess and football with my friends
+-♞⚽️ I play Chess and football with my friends
 
 
 > "KISS - Keep It Simple, Stupid" - https://pt.wikipedia.org/wiki/Princ%C3%ADpio_KISS
